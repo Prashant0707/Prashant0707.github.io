@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.Tech.Research in Dept of Engineering, Indian Institute of science, 2024
+* B.E. in Mechanical Engineering, Medicaps University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2018: Research Assistant
+  * Indian Institute of Technology, Kanpur
+  * Duties includes: Fused deposition modelling
+  * Supervisor: Aravind Kumar (Solidification lab)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: 
+  * Jash Engineering Works
+  * Duties included: Designing of Jigs and Fixtures
+  * Supervisor: HR
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Algorithm Development
+* CFD
+  * Fluid dynamics
+  * Applied Mathematics
+  * coding (C, C++, Python, MATLAB)
+* Deep Learning
 
 Publications
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Been the primary ball handler to IISc BAsketball team
