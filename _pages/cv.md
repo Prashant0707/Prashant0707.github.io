@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Fused deposition modelling
   * Supervisor: Aravind Kumar (Solidification lab)
 
-* Fall 2018: 
+* Summer 2015: 
   * Jash Engineering Works
   * Duties included: Designing of Jigs and Fixtures
   * Supervisor: HR
